@@ -1,6 +1,6 @@
-# Table of contents
+# Table of Contents
 
-* [About Bowfolios](#about-bowfolios)
+* [About UH Essentials](#about-bowfolios)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
