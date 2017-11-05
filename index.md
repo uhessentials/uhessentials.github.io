@@ -24,3 +24,7 @@ Well, with UH Essentials you can learn everything you need to know about UH Mano
 This milestone started on November 4, 2017 and ended on _____.
 
 # Contact Us
+
+Questions or Comments? Contact one of us at the following:
+
+
