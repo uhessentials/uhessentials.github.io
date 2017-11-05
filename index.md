@@ -22,6 +22,7 @@
   * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
   * [Milestone 4: Authentication](#milestone-4-authentication)
   * [Milestone 5: Administration](#milestone-5-administration)
+*[Contact Us] (#contact-us)
 
 # About uhessentials 
 
@@ -390,6 +391,7 @@ This milestone will also include the implementation of Meteor methods and remova
 
 We will manage progress on this milestone using [BowFolio GitHub Project M5](https://github.com/bowfolios/bowfolios/projects/5).
 
+# Contact Us
 
 
 
