@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [About UH Essentials](#about-uhessentials)
+* [About UH Essentials](#about-uh-essentials)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
