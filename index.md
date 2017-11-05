@@ -11,32 +11,6 @@ Have you ever had a problem of finding information about the UH Campus? Well wit
 
 # Installation
 
-<<<<<<< Updated upstream
-=======
-Explains how to download, install, and (if necessary) deploy the system.
-
-<<<<<<< Updated upstream
-=======
-First, [install Meteor](https://www.meteor.com/install).
-
-Second, [download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
-
-Third, cd into the app/ directory and install libraries with:
-
-```
-$ meteor npm install
-```
-
-Fourth, run the system with:
-
-```
-$ meteor npm run start
-```
-
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
-
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 # Application Design
 
 ## Directory structure
