@@ -8,7 +8,6 @@
 * [Contact us](#contact-us)
 
 # About UH Essentials
-Have you ever had a problem of finding information about the UH Campus? Well with UH Essentials website you can find information about: UH Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security day and night, and Campus Building Operation Hours.
 
 Have you ever had a problem of finding information about the UH Manoa Campus? 
 
