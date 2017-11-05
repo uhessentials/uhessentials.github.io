@@ -25,6 +25,6 @@ This milestone started on November 4, 2017 and ended on _____.
 
 # Contact Us
 
-Questions or Comments? Contact one of us at the following:
+Questions or Comments? Contact us at the following:
 
 
