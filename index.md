@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [About UH Essentials](#about-uh-essentials)
+* [Goals](#goals)
 * [Installation](#installation)
 * [Application design](#application-design)
 * [Development history](#development-history)
