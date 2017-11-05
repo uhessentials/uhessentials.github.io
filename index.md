@@ -50,7 +50,7 @@ BowFolios also provides a filter page, available to those who can login to the s
 
 # Installation
 
-Explains how to download, install, and (if necessary) deploy the system.
+/* Explains how to download, install, and (if necessary) deploy the system.
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -68,11 +68,11 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. */ 
 
 # Application Design
 
- Explains how the system was designed. See the BowFolios system for details.
+/* Explains how the system was designed. See the BowFolios system for details.
 
 ## Directory structure
 
@@ -118,11 +118,11 @@ public/
   
 server/
    main.js       # import all the server-side js files.
-```
+```*/
 
 ## Import conventions
 
-This system adheres to the Meteor 1.4 guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
+/* This system adheres to the Meteor 1.4 guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
 
 This system accomplishes client and server-side importing in a different manner than most Meteor sample applications. In this system, every imports/ subdirectory containing any Javascript or HTML files has a top-level index.js file that is responsible for importing all files in its associated directory.   
 
@@ -292,11 +292,11 @@ Load the app in a browser to run client tests, or set the TEST_BROWSER_DRIVER en
 
 ### JSDoc
 
-BowFolios supports documentation generation with [JSDoc](http://usejsdoc.org/). The package.json file defines a script called jsdoc that runs JSDoc over the source files and outputs html to the ../../bowfolio.github.io/jsdoc directory.  When committed, the index.html file providing an overview of all the documentation generate at that point in time is available at [http://bowfolios.github.io/jsdocs](https://bowfolios.github.io/jsdocs/). 
+BowFolios supports documentation generation with [JSDoc](http://usejsdoc.org/). The package.json file defines a script called jsdoc that runs JSDoc over the source files and outputs html to the ../../bowfolio.github.io/jsdoc directory.  When committed, the index.html file providing an overview of all the documentation generate at that point in time is available at [http://bowfolios.github.io/jsdocs](https://bowfolios.github.io/jsdocs/). */
 
 # Development History
 
-Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
+/* Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
 
 The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
@@ -397,7 +397,7 @@ This milestone started on Feb 14, 2017 and is ongoing.
 
 This milestone will also include the implementation of Meteor methods and removal of the insecure package. 
 
-We will manage progress on this milestone using [BowFolio GitHub Project M5](https://github.com/bowfolios/bowfolios/projects/5).
+We will manage progress on this milestone using [BowFolio GitHub Project M5](https://github.com/bowfolios/bowfolios/projects/5). */
 
 # Contact Us
 
