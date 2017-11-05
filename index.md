@@ -351,53 +351,10 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 3: Connect UI to data model
 
-This milestone started on Feb 2, 2017 and ended on Feb 10, 2017.
-
-The goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to simplify implementation of form processing.
-
-Milestone 3 was implemented as [BowFolio GitHub Milestone M3](https://github.com/bowfolios/bowfolios/milestone/3)::
-
-![](images/m3-milestone.png)
-
-
-Milestone 3 consisted of four issues, and progress was managed via the [BowFolio GitHub Project M3](https://github.com/bowfolios/bowfolios/projects/3):
-
-![](images/m3-project.png)
-
-Each issue was implemented in its own branch, and merged into master when completed:
-
-![](images/m3-branch-graph.png)
-
 ## Milestone 4: Authentication
-
-This milestone started on Feb 10, 2017 and ended on Feb 14, 2017.
-
-The goal of Milestone 4 was to set up authentication using the University of Hawaii test CAS system. We used the templates from [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/) to guide the implementation. Although the example restricts logins to those in a list in the configuration file, BowFolios allows anyone with a UH account to access the system. 
-
-Authentication also implies that users cannot access the profile or filter page associated with another user.
-
-Milestone 4 was implemented as [BowFolio GitHub Milestone M4](https://github.com/bowfolios/bowfolios/milestone/4)::
-
-![](images/m4-milestone.png)
-
-
-Milestone 4 consisted of two issues, and progress was managed via the [BowFolio GitHub Project M4](https://github.com/bowfolios/bowfolios/projects/4):
-
-![](images/m4-project.png)
-
-Each issue was implemented in its own branch, and merged into master when completed:
-
-![](images/m4-branch-graph.png)
 
 ## Milestone 5: Administration
 
-This milestone started on Feb 14, 2017 and is ongoing.
-
-[BowFolio GitHub Milestone 5](https://github.com/bowfolios/bowfolios/milestone/5) involves the creation of an administrator role in the system. The administrator can manage the set of defined interests. (Currently, interests are defined in the database file loaded at system startup time.)
-
-This milestone will also include the implementation of Meteor methods and removal of the insecure package. 
-
-We will manage progress on this milestone using [BowFolio GitHub Project M5](https://github.com/bowfolios/bowfolios/projects/5). */
 
 # Contact Us
 
