@@ -22,5 +22,3 @@ The following sections document the development history of UH Essentials.
 This milestone started on November 4, 2017 and ended on _____.
 
 # Contact Us
-
-Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
