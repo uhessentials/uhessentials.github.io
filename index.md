@@ -8,10 +8,8 @@
 
 <<<<<<< Updated upstream
 # About UH Essentials 
+Have you ever had a problem of finding information about the UH Campus? Well with UH Essentials website you can find information about: UH Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security day and night.
 
-Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
-
-=======
 # About uhessentials
 
 Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
