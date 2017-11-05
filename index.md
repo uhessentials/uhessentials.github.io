@@ -30,11 +30,7 @@ Summarizes what the system does and what makes it special and different from oth
 
 # Installation
 
-Explains how to download, install, and (if necessary) deploy the system.
-
 # Application Design
-
-Explains how the system was designed. See the BowFolios system for details.
 
 ## Directory structure
 
@@ -63,8 +59,6 @@ Explains how the system was designed. See the BowFolios system for details.
 ### JSDoc
 
 # Development History
-
-Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
 
 The following sections document the development history of BowFolios.
 
