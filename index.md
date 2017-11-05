@@ -26,6 +26,8 @@
 
 # About uhessentials 
 
+Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
+
 BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
 ![](images/landing.png)
@@ -48,6 +50,8 @@ BowFolios also provides a filter page, available to those who can login to the s
 
 # Installation
 
+Explains how to download, install, and (if necessary) deploy the system.
+
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
@@ -67,6 +71,8 @@ $ meteor npm run start
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
 
 # Application Design
+
+ Explains how the system was designed. See the BowFolios system for details.
 
 ## Directory structure
 
@@ -290,6 +296,8 @@ BowFolios supports documentation generation with [JSDoc](http://usejsdoc.org/). 
 
 # Development History
 
+Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
+
 The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
 The following sections document the development history of BowFolios.
@@ -393,6 +401,7 @@ We will manage progress on this milestone using [BowFolio GitHub Project M5](htt
 
 # Contact Us
 
+Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
 
 
 
