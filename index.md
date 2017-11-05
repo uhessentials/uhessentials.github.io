@@ -6,35 +6,9 @@
 * [Development history](#development-history)
 * [Contact us](#contact-us)
 
-<<<<<<< Updated upstream
 # About UH Essentials 
 Have you ever had a problem of finding information about the UH Campus? Well with UH Essentials website you can find information about: UH Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security day and night.
 
-# About uhessentials
-
-Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
-
-BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
-
-![](images/landing.png)
-
-Anyone with a UH account can login to BowFolios by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
-
-![](images/bowfolios-cas.png)
-
-Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
-
-![](images/profile.png)
-
-After creating a profile, you will be listed on the public directory page:
-
-![](images/directory.png)
-
-BowFolios also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest:
-
-![](images/filter.png)
-
->>>>>>> Stashed changes
 # Installation
 
 <<<<<<< Updated upstream
