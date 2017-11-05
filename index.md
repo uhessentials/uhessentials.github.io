@@ -4,6 +4,7 @@
 * [Installation](#installation)
 * [Application design](#application-design)
 * [Development history](#development-history)
+  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 * [Contact us](#contact-us)
 
 # About UH Essentials
@@ -15,9 +16,7 @@ Have you ever had a problem of finding information about the UH Campus? Well wit
 
 # Development History
 
-The following sections document the development history of UH Essentials.
-
-## Milestone 1: Mockup development
+## Milestone 1: Mockup Development
 
 This milestone started on November 4, 2017 and ended on _____.
 
