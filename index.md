@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [About UH Essentials](#about-bowfolios)
+* [About UH Essentials](#about-uhessentials)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -23,7 +23,7 @@
   * [Milestone 4: Authentication](#milestone-4-authentication)
   * [Milestone 5: Administration](#milestone-5-administration)
 
-# About BowFolios 
+# About uhessentials 
 
 BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
