@@ -24,7 +24,7 @@
   * [Milestone 5: Administration](#milestone-5-administration)
 * [Contact us](#contact-us)
 
-# About uhessentials 
+# About UH Essentials 
 
 Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
 
