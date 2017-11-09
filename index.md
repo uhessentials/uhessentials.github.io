@@ -47,8 +47,10 @@ This milestone started on November 4, 2017 and ended on _____.
 
 Questions or Comments? Contact us at the following:
 
-April Bala      Email: aaibala@hawaii.edu
+April Bala     
+Email: aaibala@hawaii.edu
 
-Creighton Gorai Email: cgorai@hawaii.edu
+Creighton Gorai 
+Email: cgorai@hawaii.edu
 
 Kailey Pa'ahana Email: kpaahana@hawaii.edu
