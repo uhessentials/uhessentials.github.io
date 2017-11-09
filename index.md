@@ -19,9 +19,8 @@ When you come to the site, you are greeted by the following landing page:
 <img src="/images/LandingPage.jpg" width="500" height="700">
 
 Anyone with a UH account can login to UH Essentials by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
-![](images/Login.png)
 
-<img src="/images/Logine.png" width="700" height="500">
+<img src="/images/Login.png" width="700" height="500">
 
 # The Vision
 
