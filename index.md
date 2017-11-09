@@ -24,6 +24,9 @@ Anyone with a UH account can login to UH Essentials by clicking on the login but
 
 Once authenticated, you can create a profile that allows you to provide personal information, including your standing, major, campus location, and so on:
 
+After choosing a general topic you will be directed to the Top of the Topic page which shows all posts made in that specific Thread by other users of the system.
+
+<img src="/images/IMG_3807.JPG" width="500" height="700">
 
 
 # The Vision
