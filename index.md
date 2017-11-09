@@ -17,6 +17,9 @@ Well, with UH Essentials you can learn everything you need to know about ANY UH 
 When you come to the site, you are greeted by the following landing page:
 ![](images/LandingPage.jpg)
 
+Anyone with a UH account can login to UH Essentials by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
+![](images/Login.png)
+
 # The Vision
 
 UH Essentials is a UH System wide dynamic Q&A Forum. There will be specific forums for each UH Campus of which you can only access once you create a profile. Each forum will look identical, but will hold different information about the campus from people who either work there or have attended that college campus before.  Each individual forum will hold a Home page that gives you 5 general topics to choose from to get more details or ask questions about: Degree Programs, Food Services, Commuting, Campus Security, and Campus Services. Some topics will have sub topics that you can explore more into detail--for example, Campus Services will have sub threads of Library Hours, Clubs, Events, Campus Jobs, etc. Once you have found the right thread that you want you can explore posts to your hearts content, up voting, down voting posts you like or even posting something new that hasn't been talked about yet. UH Essentials offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
