@@ -34,6 +34,14 @@ After choosing a general topic you will be directed to the Top of the Topic page
 
 <img src="/images/top-thread-page.png" width="500" height="700">
 
+When clicking on an idividual topic you will be directed to a page that looks likes this:
+
+<img src="/images/individual-topic.png" width="500" height="700">
+
+Below is the submission form if you would like to submit a question/information:
+
+<img src="/images/submission-form.png" width="500" height="700">
+
 
 # The Vision
 
