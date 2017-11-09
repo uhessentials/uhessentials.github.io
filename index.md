@@ -26,7 +26,7 @@ Once authenticated, you can create a profile that allows you to provide personal
 
 After choosing a general topic you will be directed to the Top of the Topic page which shows all posts made in that specific Thread by other users of the system.
 
-<img src="/images/IMG_3807.JPG" width="500" height="700">
+<img src="/images/top-topic-page.png" width="500" height="700">
 
 
 # The Vision
