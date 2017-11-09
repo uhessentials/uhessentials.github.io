@@ -15,9 +15,8 @@ Have you ever had a problem finding information about the UH Manoa Campus?
 Well, with UH Essentials you can learn everything you need to know about ANY UH System campus, not just UH Manoa. UH Essentials is a forum-like Meteor application where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Services from actual students, professors that work or have experienced the UH life before.
 
 When you come to the site, you are greeted by the following landing page:
-![](images/LandingPage.jpg)
 
-<img src="/images/LandingPage.jpg" width="400" height="790">
+<img src="/images/LandingPage.jpg" width="1500" height="790">
 
 Anyone with a UH account can login to UH Essentials by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 ![](images/Login.png)
