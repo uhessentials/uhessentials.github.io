@@ -50,7 +50,7 @@ Questions or Comments? Contact us at the following:
 April Bala     
 Email: aaibala@hawaii.edu
 
-Creighton Gorai 
+Creighton Gorai           
 Email: cgorai@hawaii.edu
 
 Kailey Pa'ahana Email: kpaahana@hawaii.edu
