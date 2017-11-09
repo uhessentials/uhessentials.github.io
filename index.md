@@ -1,7 +1,7 @@
 # Table of Contents
 
 * [About UH Essentials](#about-uh-essentials)
-* [Vision](#vision)
+* [The Vision](#the-vision)
 * [Installation](#installation)
 * [Application design](#application-design)
 * [Development history](#development-history)
@@ -14,7 +14,7 @@ Have you ever had a problem of finding information about the UH Manoa Campus?
 
 Well, with UH Essentials you can learn everything you need to know about UH Manoa. UH Essentials is a forum based website where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Services from those who work or have experienced the UH life before. 
 
-# Vision
+# The Vision
 
 Uh Essentials is a UH System wide dynamic Q&A Forum. There will be specific forums for each UH Campus of which you can only access once you create a profile. Each Forum will look identitcal but will hold different information about the campus from people who either work there or have attended that college campus before.  Each individual forum will hold a Home page that gives you 5 general topics to choose from to get more details or ask questions about: Degree Programs, Food Services, Commuting, Campus Security, and Campus Services. Some topics will have sub topics that you can explore more into detail for example: Campus Services will have sub threads of Library Hours, Clubs, Events, Campus Jobs, etc. Once you have found the right thread that you want you can explore posts to your hearts content, up voting, down voting posts you like or even posting something new that hasn't been talked about yet. UH Essentials offers the all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus. 
 
