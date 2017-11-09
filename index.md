@@ -16,7 +16,7 @@ Well, with UH Essentials you can learn everything you need to know about ANY UH 
 
 When you come to the site, you are greeted by the following landing page:
 
-<img src="/images/LandingPage.jpg" width="1500" height="790">
+<img src="/images/LandingPage.jpg" width="1500" height="1000">
 
 Anyone with a UH account can login to UH Essentials by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 ![](images/Login.png)
