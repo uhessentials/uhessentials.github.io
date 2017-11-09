@@ -53,4 +53,5 @@ Email: aaibala@hawaii.edu
 Creighton Gorai           
 Email: cgorai@hawaii.edu
 
-Kailey Pa'ahana Email: kpaahana@hawaii.edu
+Kailey Pa'ahana         
+Email: kpaahana@hawaii.edu
