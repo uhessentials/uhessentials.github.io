@@ -57,6 +57,8 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 This milestone started on November 4, 2017 and ended on November 22, 2017.
 
+
+
 ## Milestone 2: ______
 This milestone started on November 22, 2017.
 
