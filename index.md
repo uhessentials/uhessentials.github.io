@@ -62,6 +62,8 @@ The following mockup pages were made during M1:
 
 This milestone had eight issues, all of which our progress was tracked via [UH Essentials Github Project M1](https://github.com/uhessentials/uhessentials/projects/1):
 
+<img src="/images/project-M1.png" width="600" height="500">
+
 ## Milestone 2
 This milestone started on November 22, 2017.
 
