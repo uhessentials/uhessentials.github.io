@@ -28,19 +28,19 @@ Once authenticated, you can create a profile that allows you to provide personal
 
 Once your profile is created, you will be sent to the home page where you can explore the various threads available for viewing:
 
-<img src="/images/HomePageMockup.JPG" width="500" height="700">
+<img src="/images/home-page-html.png" width="500" height="700">
 
 After choosing a general topic you will be directed to the Top of the Topic page which shows all posts made in that specific Thread by other users of the system.
 
-<img src="/images/top-thread-page.png" width="500" height="700">
+<img src="/images/thread-page-html.png" width="500" height="700">
 
-When clicking on an idividual topic you will be directed to a page that looks likes this:
+When clicking on an individual topic you will be directed to a page that looks likes this:
 
-<img src="/images/individual-topic.png" width="500" height="700">
+<img src="/images/topic-page-html.png" width="500" height="700">
 
 Below is the submission form if you would like to submit a question/information:
 
-<img src="/images/submission-form.png" width="500" height="700">
+<img src="/images/submit-page-html.png" width="500" height="700">
 
 
 # The Vision
