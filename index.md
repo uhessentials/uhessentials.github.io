@@ -25,7 +25,7 @@ Anyone with a UH account can login to UH Essentials by clicking on the login but
 
 Once authenticated, you can create a profile that allows you to provide personal information, including your standing, major, campus location, and so on:
 
-<img src="/images/ProfilePage.jpg" width="500" height="700">
+<img src="/images/profile-page-html.png" width="500">
 
 Once your profile is created, you will be sent to the home page where you can explore the various threads available for viewing:
 
