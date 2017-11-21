@@ -28,19 +28,19 @@ Once authenticated, you can create a profile that allows you to provide personal
 
 Once your profile is created, you will be sent to the home page where you can explore the various threads available for viewing:
 
-<img src="/images/home-page-html.png" width="500" height="700">
+<img src="/images/home-page-html.png" width="500">
 
 After choosing a general topic you will be directed to the Top of the Topic page which shows all posts made in that specific Thread by other users of the system.
 
-<img src="/images/thread-page-html.png" width="500" height="700">
+<img src="/images/thread-page-html.png" width="500">
 
 When clicking on an individual topic you will be directed to a page that looks likes this:
 
-<img src="/images/topic-page-html.png" width="500" height="700">
+<img src="/images/topic-page-html.png" width="500">
 
 Below is the submission form if you would like to submit a question/information:
 
-<img src="/images/submit-page-html.png" width="500" height="700">
+<img src="/images/submit-page-html.png" width="500">
 
 
 # The Vision
@@ -55,7 +55,10 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 ## Milestone 1: Mockup Development
 
-This milestone started on November 4, 2017 and ended on _____.
+This milestone started on November 4, 2017 and ended on November 22, 2017.
+
+## Milestone 2: ______
+This milestone started on November 22, 2017.
 
 # Contact Us
 
