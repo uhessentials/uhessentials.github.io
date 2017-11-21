@@ -58,7 +58,9 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 This milestone started on November 4, 2017 and ended on November 22, 2017.
 
+The following mockup pages were made during M1:
 
+This milestone had eight issues, all of which our progress was tracked via [UH Essentials Github Project M1](https://github.com/uhessentials/uhessentials/projects/1):
 
 ## Milestone 2
 This milestone started on November 22, 2017.
