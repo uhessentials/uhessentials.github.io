@@ -6,6 +6,7 @@
 * [Application design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: ]((#milestone-2)
 * [Contact us](#contact-us)
 
 # About UH Essentials
@@ -59,7 +60,7 @@ This milestone started on November 4, 2017 and ended on November 22, 2017.
 
 
 
-## Milestone 2: ______
+## Milestone 2
 This milestone started on November 22, 2017.
 
 # Contact Us
