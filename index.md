@@ -6,7 +6,7 @@
 * [Application design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: ]((#milestone-2)
+  * [Milestone 2: ](#milestone-2)
 * [Contact us](#contact-us)
 
 # About UH Essentials
