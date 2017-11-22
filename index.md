@@ -61,11 +61,17 @@ This milestone started on November 4, 2017 and ended on November 22, 2017.
 In this milestone, mockup pages were made for our application. Of the pages made, these include a landing page, home page, profile page, sample thread page, sample individual topic page, and a submit content page. 
 
 Mockups for the following six pages were implemented during M1:
+
 <img width="200px" src="/images/M1-Landing-Page.png"/>
+
 <img width="200px" src="/images/M1-Profile-Page.png"/>
+
 <img width="200px" src="/images/M1-Home-Page.png"/>
+
 <img width="200px" src="/images/M1-Thread-Page.png"/>
+
 <img width="200px" src="/images/M1-Topic-Page.png"/>
+
 <img width="200px" src="/images/M1-Submit-Page.png"/>
 
 Additionally, our application was also deployed to Galaxy, and can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
