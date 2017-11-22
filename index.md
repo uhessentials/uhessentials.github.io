@@ -62,18 +62,22 @@ In this milestone, mockup pages were made for our application. Of the pages made
 
 Additionally, our application was also deployed to Galaxy, and can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
 
-This milestone was carried out through [UH Essentials Github Milestone M1](https://github.com/uhessentials/uhessentials/milestone/1): 
-<img src="/images/milestone-m1.png" width="800" height="500">
+This milestone was carried out through [UH Essentials Github Milestone M1](https://github.com/uhessentials/uhessentials/milestone/1):
 
+<img src="/images/milestone-m1.png" width="800" height="500">
 
 This milestone had eight issues, all of which our progress was tracked via [UH Essentials Github Project M1](https://github.com/uhessentials/uhessentials/projects/1):
 
 <img src="/images/project-M1.png" width="800" height="500">
 
-
-
 ## Milestone 2: Application Functionality
 This milestone started on November 22, 2017.
+
+The goal of this milestone is to have the UH Essentials application working 
+
+This milestone will be implemented through [UH Essentials Github Milestone M2](https://github.com/uhessentials/uhessentials/milestone/2).
+
+The progress of the issues for this milestone will be tracked via [UH Essentials Github Project M2](https://github.com/uhessentials/uhessentials/projects/2).
 
 # Contact Us
 
