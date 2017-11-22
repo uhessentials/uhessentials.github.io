@@ -21,27 +21,27 @@ When you come to the site, you are welcomed by the following landing page:
 
 Anyone with a UH account can login to UH Essentials by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 
-<img src="/images/login.png" width="500">
+<img src="/images/login.png" height = "800" width="500">
 
 Once authenticated, you can create a profile that allows you to provide personal information, including your standing, major, campus location, and so on:
 
-<img src="/images/profile-page-html.png" width="500">
+<img src="/images/profile-page-html.png" height = "800" width="500">
 
 Once your profile is created, you will be sent to the home page where you can explore the various threads available for viewing:
 
-<img src="/images/home-page-html.png" width="500">
+<img src="/images/home-page-html.png" height = "800" width="500">
 
 After choosing a general topic you will be directed to the Top of the Topic page which shows all posts made in that specific Thread by other users of the system.
 
-<img src="/images/thread-page-html.png" width="500">
+<img src="/images/thread-page-html.png" height = "800" width="500">
 
 When clicking on an individual topic you will be directed to a page that looks likes this:
 
-<img src="/images/topic-page-html.png" width="500">
+<img src="/images/topic-page-html.png" height = "800" width="500">
 
 Below is the submission form if you would like to submit a question/information:
 
-<img src="/images/submit-page-html.png" width="500">
+<img src="/images/submit-page-html.png" height = "800" width="500">
 
 
 # The Vision
