@@ -73,7 +73,7 @@ This milestone had eight issues, all of which our progress was tracked via [UH E
 ## Milestone 2: Application Functionality
 This milestone started on November 22, 2017.
 
-The goal of this milestone is to have the UH Essentials application working 
+The goal of this milestone is to 
 
 This milestone will be implemented through [UH Essentials Github Milestone M2](https://github.com/uhessentials/uhessentials/milestone/2).
 
