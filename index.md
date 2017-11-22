@@ -58,17 +58,17 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 This milestone started on November 4, 2017 and ended on November 22, 2017.
 
-In this milestone, mockup pages were made for our application. Of the pages made, these include...
-- landing page
-- home page
-- profile page
-- 
+In this milestone, mockup pages were made for our application. Of the pages made, these include a landing page, home page, profile page, sample thread page, sample individual topic page, and a submit content page. 
 
-Additionally, our application was also deployed to Galaxy, and can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/).
+Additionally, our application was also deployed to Galaxy, and can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
+
+This milestone was carried out through [UH Essentials Github Milestone M1](https://github.com/uhessentials/uhessentials/milestone/1): 
+<img src="/images/milestone-m1.png" width="800" height="500">
+
 
 This milestone had eight issues, all of which our progress was tracked via [UH Essentials Github Project M1](https://github.com/uhessentials/uhessentials/projects/1):
 
-<img src="/images/project-M1.png" width="600" height="500">
+<img src="/images/project-M1.png" width="800" height="500">
 
 
 
