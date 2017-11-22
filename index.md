@@ -58,9 +58,7 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 This milestone started on November 4, 2017 and ended on November 22, 2017.
 
-In this milestone, mockup pages were made for our application. Of the pages made, these include a landing page, home page, profile page, sample thread page, sample individual topic page, and a submit content page. 
-
-Mockups for the following six pages were implemented during M1:
+In this milestone, mockup pages were made for our application. Of the pages made, these include a landing page, home page, profile page, sample thread page, sample individual topic page, and a submit content page:
 
 <img width="200px" src="/images/M1-Landing-Page.png"/>
 
