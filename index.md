@@ -57,7 +57,7 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 This milestone started on November 4, 2017 and ended on November 22, 2017.
 
-The goal of this milestone was to create mockups for our app, with the use of [Bowfolios](https://bowfolios.github.io/) as a template. During this milestone, we also practiced issue driven project management (IDPM) skills. 
+The goal of this milestone was to create mockups for our app, with the use of [Bowfolios](https://bowfolios.github.io/) as a template. During this milestone, we also practiced issue driven project management (IDPM) skills.
 
 Mockup pages that were made include a landing page, home page, profile page, sample thread page, sample individual topic page, and a submit content page:
 
@@ -84,7 +84,7 @@ This milestone started on November 22, 2017.
 The goal of this milestone is to implement the functionality features of our application. This includes:
 - linking pages to each other
 - working forms (ex. dropdowns, checkboxes, submission)
-- creating a database for a profile collection and thread collection. 
+- creating a database for a profile collection and thread collection.
 
 Although our ultimate goal is to have UH Essentials working and running for all UH campuses, as of right now, this application will only service the UH Manoa campus.
 
