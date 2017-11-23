@@ -49,7 +49,27 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 # Installation
 
+To run UH Essentials, you will first need to [install Meteor](https://www.meteor.com/install).
+
+Then, [download a copy of UH Essentials](https://github.com/uhessentials/uhessentials/archive/master.zip), or clone it using git.
+  
+Next, on command line, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+You may now run the UH Essentials app with:
+
+```
+$ meteor npm run start
+```
+
+Finally, the app can be seen at [http://localhost:3000](http://localhost:3000). In order to login and have further access to the app, you will need an account on the UH test CAS server, which uses valid UH credentials.
+
 # Application Design
+
+Coming soon...
 
 # Development History
 
