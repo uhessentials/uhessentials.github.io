@@ -6,7 +6,7 @@
 * [Application design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2:](#milestone-2-application-functionality)
+  * [Milestone 2: Application Functionality](#milestone-2-application-functionality)
 * [Contact us](#contact-us)
 
 # About UH Essentials
@@ -43,7 +43,6 @@ Below is the submission form if you would like to submit a question/information:
 
 <img src="/images/M1-Submit-Page.png" width="800">
 
-
 # The Vision
 
 UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with his UH username and password, he can then proceed to creating a profile. To make the site more personal and specific to a user’s needs, the threads on the homepage will be based upon the information that he enters during the profile making process. There will be specific forums for each UH Campus of which you can only access once you create a profile. Each forum will look identical, but will hold different information about the campus from people who either work there or have attended that college campus before.  Each individual forum will hold a Home page that gives you 5 general topics to choose from to get more details or ask questions about: Degree Programs, Food Services, Commuting, Campus Security, and Campus Services. Some topics will have sub topics that you can explore more into detail--for example, Campus Services will have sub threads of Library Hours, Clubs, Events, Campus Jobs, etc. Once you have found the right thread that you want you can explore posts to your hearts content, up voting, down voting posts you like or even posting something new that hasn't been talked about yet. UH Essentials offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
@@ -58,34 +57,36 @@ UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with hi
 
 This milestone started on November 4, 2017 and ended on November 22, 2017.
 
-In this milestone, mockup pages were made for our application. Of the pages made, these include a landing page, home page, profile page, sample thread page, sample individual topic page, and a submit content page:
+The goal of this milestone was to create mockups for our app, with the use of [Bowfolios](https://bowfolios.github.io/) as a template. During this milestone, we also practiced issue driven project management (IDPM) skills. 
+
+Mockup pages that were made include a landing page, home page, profile page, sample thread page, sample individual topic page, and a submit content page:
 
 <img width="200px" src="/images/M1-Landing-Page.png"/>
-
 <img width="200px" src="/images/M1-Profile-Page.png"/>
-
 <img width="200px" src="/images/M1-Home-Page.png"/>
-
 <img width="200px" src="/images/M1-Thread-Page.png"/>
-
 <img width="200px" src="/images/M1-Topic-Page.png"/>
-
 <img width="200px" src="/images/M1-Submit-Page.png"/>
 
-Additionally, our application was also deployed to Galaxy, and can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
+Additionally, our application was deployed to Galaxy, and can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
 
 This milestone was carried out through [UH Essentials Github Milestone M1](https://github.com/uhessentials/uhessentials/milestone/1):
 
-<img src="/images/milestone-m1.png" width="800" height="500">
+<img src="/images/milestone-m1.png" width="800">
 
-This milestone had eight issues, all of which our progress was tracked via [UH Essentials Github Project M1](https://github.com/uhessentials/uhessentials/projects/1):
+This milestone had eight issues, all of which our progress was tracked via [UH Essentials Github Project M1](https://github.com/uhessentials/uhessentials/projects/1). Each issue was implemented in its own branch, and was later merged back into master when the work for that issue was finished.
 
-<img src="/images/project-M1.png" width="800" height="500">
+<img src="/images/project-M1.png" width="800">
 
 ## Milestone 2: Application Functionality
 This milestone started on November 22, 2017.
 
-The goal of this milestone is to 
+The goal of this milestone is to implement the functionality features of our application. This includes:
+- linking pages to each other
+- working forms (ex. dropdowns, checkboxes, submission)
+- creating a database for a profile collection and thread collection. 
+
+Although our ultimate goal is to have UH Essentials working and running for all UH campuses, as of right now, this application will only service the UH Manoa campus.
 
 This milestone will be implemented through [UH Essentials Github Milestone M2](https://github.com/uhessentials/uhessentials/milestone/2).
 
