@@ -1,15 +1,15 @@
 # Table of Contents
 
-* The UH Essentials web application can be visited via this URL: [http://uhessentials.meteorapp.com/]
+* The UH Essentials web application can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
 * [About UH Essentials](#about-uh-essentials)
 * [The Vision](#the-vision)
 * [Developer Guide](#developer-guide)
   * [Installation](#installation)
 * [Application Design](#application-design)
-* [Community Feedback](#community-feedback)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Application Functionality](#milestone-2-application-functionality)
+* [Community Feedback](#community-feedback)
 * [Contact us](#contact-us)
 
 # About UH Essentials
@@ -120,7 +120,7 @@ The progress of the issues for this milestone were tracked via [UH Essentials Gi
 
 # Community Feedback
 
-We asked five UH community members to test our application. 
+We asked five UH community members to test our application.
 
 ## Test User #1
 ### User Info
