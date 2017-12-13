@@ -1,5 +1,6 @@
 # Table of Contents
 
+* The UH Essentials web application can be visited via this URL: [http://uhessentials.meteorapp.com/]
 * [About UH Essentials](#about-uh-essentials)
 * [The Vision](#the-vision)
 * [Developer Guide](#developer-guide)
