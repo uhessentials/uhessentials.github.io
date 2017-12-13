@@ -15,7 +15,7 @@
 
 Have you ever had a problem finding information about the UH Manoa Campus?
 
-Well, with UH Essentials you can learn everything you need to know about ANY UH System campus, not just UH Manoa. UH Essentials is a forum-like Meteor application where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Services from actual students, professors that work or have experienced the UH life before.
+Well, with UH Essentials you can learn everything you need to know about ANY UH System campus, not just UH Manoa. UH Essentials is a forum-like Meteor application where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Events from actual students and professors that work or have experienced the UH life before.
 
 When you come to the site, you are welcomed by the following landing page:
 
@@ -75,10 +75,6 @@ Finally, the app can be seen at [http://localhost:3000](http://localhost:3000). 
 
 Coming soon...
 
-# Community Feedback
-
-Coming soon...
-
 # Development History
 
 ## Milestone 1: Mockup Development
@@ -107,7 +103,8 @@ This milestone had eight issues, all of which our progress was tracked via [UH E
 <img src="/images/project-M1.png" width="800">
 
 ## Milestone 2: Application Functionality
-This milestone started on November 22, 2017.
+
+This milestone started on November 22, 2017 and ended on December 13, 2017.
 
 The goal of this milestone is to implement the functionality features of our application. This includes:
 - linking pages to each other
@@ -116,9 +113,33 @@ The goal of this milestone is to implement the functionality features of our app
 
 Although our ultimate goal is to have UH Essentials working and running for all UH campuses, as of right now, this application will only service the UH Manoa campus.
 
-This milestone will be implemented through [UH Essentials Github Milestone M2](https://github.com/uhessentials/uhessentials/milestone/2).
+This milestone was be implemented through [UH Essentials Github Milestone M2](https://github.com/uhessentials/uhessentials/milestone/2).
 
-The progress of the issues for this milestone will be tracked via [UH Essentials Github Project M2](https://github.com/uhessentials/uhessentials/projects/2).
+The progress of the issues for this milestone were tracked via [UH Essentials Github Project M2](https://github.com/uhessentials/uhessentials/projects/2).
+
+# Community Feedback
+
+We asked five UH community members to test our application. 
+
+## Test User #1
+### User Info
+### Feedback
+
+## Test User #2
+### User Info
+### Feedback
+
+## Test User #3
+### User Info
+### Feedback
+
+## Test User #4
+### User Info
+### Feedback
+
+## Test User #5
+### User Info
+### Feedback
 
 # Contact Us
 
