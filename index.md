@@ -4,7 +4,6 @@
 * [About UH Essentials](#about-uh-essentials)
 * [Developer Guide](#developer-guide)
   * [Installation](#installation)
-* [Application Design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Application Functionality](#milestone-2-application-functionality)
@@ -68,10 +67,6 @@ $ meteor npm run start
 
 Finally, the app can be seen at [http://localhost:3000](http://localhost:3000). In order to login and have further access to the app, you will need an account on the UH test CAS server, which uses valid UH credentials.
 
-# Application Design
-
-Coming soon...
-
 # Development History
 
 ## Milestone 1: Mockup Development
@@ -118,31 +113,29 @@ The progress of the issues for this milestone were tracked via [UH Essentials Gi
 
 We asked five UH community members to test our application.
 
-## Test User #1
-### User Info
-### Feedback
+### Test User #1
+#### User Info
+#### Feedback
 
-## Test User #2
-### User Info
-### Feedback
+### Test User #2
+#### User Info
+#### Feedback
 
-## Test User #3
-### User Info
-### Feedback
+### Test User #3
+#### User Info
+#### Feedback
 
-## Test User #4
-### User Info
-### Feedback
+### Test User #4
+#### User Info
+#### Feedback
 
-## Test User #5
-### User Info
-### Feedback
+### Test User #5
+#### User Info
+#### Feedback
 
 # The Future Vision
 
 Unfortunately, we were not able to expand our application for other UH system campuses to use. As of right now, the UH Essentials app is geared only for the UH Manoa campus. In the future, we hope to expand our application more by allowing all UH campuses to have their own personalized thread pages fitted for the u
-
-UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with his UH username and password, he can then proceed to creating a profile. To make the site more personal and specific to a user’s needs, the threads on the homepage will be based upon the information that he enters during the profile making process. There will be specific forums for each UH Campus of which you can only access once you create a profile. Each forum will look identical, but will hold different information about the campus from people who either work there or have attended that college campus before.  Each individual forum will hold a Home page that gives you 5 general topics to choose from to get more details or ask questions about: Degree Programs, Food Services, Commuting, Campus Security, and Campus Services. Some topics will have sub topics that you can explore more into detail--for example, Campus Services will have sub threads of Library Hours, Clubs, Events, Campus Jobs, etc. Once you have found the right thread that you want you can explore posts to your hearts content, up voting, down voting posts you like or even posting something new that hasn't been talked about yet. UH Essentials offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
 
 # Contact Us
 
