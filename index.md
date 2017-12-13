@@ -23,7 +23,7 @@ When you come to the site, you are welcomed by the following landing page:
 
 Anyone with a UH account can login to UH Essentials by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 
-<img src="/images/Login.png" width="800">
+<img src="/images/CAS-Login.png" width="800">
 
 Once authenticated, you can create a profile that allows you to provide personal information, including your standing, major, campus location, and so on:
 
@@ -113,9 +113,9 @@ The progress of the issues for this milestone were tracked via [UH Essentials Gi
 
 We asked five UH community members to test our application.
 
-### Test User #1
-#### User Info
-#### Feedback
+## Test User #1
+### User Info
+### Feedback
 
 ### Test User #2
 #### User Info
