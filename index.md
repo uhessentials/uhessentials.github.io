@@ -1,8 +1,7 @@
 # Table of Contents
 
-* The UH Essentials web application can be visited via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
+* The UH Essentials app can be accessed via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
 * [About UH Essentials](#about-uh-essentials)
-* [The Vision](#the-vision)
 * [Developer Guide](#developer-guide)
   * [Installation](#installation)
 * [Application Design](#application-design)
@@ -10,13 +9,14 @@
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Application Functionality](#milestone-2-application-functionality)
 * [Community Feedback](#community-feedback)
+* [The Vision](#the-vision)
 * [Contact us](#contact-us)
 
 # About UH Essentials
 
 Have you ever had a problem finding information about the UH Manoa Campus?
 
-Well, with UH Essentials you can learn everything you need to know about ANY UH System campus, not just UH Manoa. UH Essentials is a forum-like Meteor application where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Events from actual students and professors that work or have experienced the UH life before.
+Well, with UH Essentials you can learn everything you need to know about ANY UH System campus, not just UH Manoa. UH Essentials is a forum-like Meteor application for the University of Hawaii (UH) system, where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Events from actual students and professors that work or have experienced the UH life before. The UH Essentials app offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
 
 When you come to the site, you are welcomed by the following landing page:
 
@@ -30,11 +30,11 @@ Once authenticated, you can create a profile that allows you to provide personal
 
 <img src="/images/M1-Profile-Page.png" width="800">
 
-Once your profile is created, you will be sent to the home page where you can explore the various threads available for viewing:
+Once your profile is created, you can go to the home page where you can explore the various threads available and see the recently asked questions users have submitted:
 
 <img src="/images/M1-Home-Page.png" width="800">
 
-After choosing a general topic you will be directed to the Top of the Topic page which shows all posts made in that specific Thread by other users of the system.
+Want to see more of a specific thread? Click on the thread name on the home page, or use the threads dropdown on the top navigation bar. After choosing a specific thread, you will be directed to its respective thread page, which shows all questions made by other users:
 
 <img src="/images/M1-Thread-Page.png" width="800">
 
@@ -45,10 +45,6 @@ When clicking on an individual topic you will be directed to a page that looks l
 Below is the submission form if you would like to submit a question/information:
 
 <img src="/images/M1-Submit-Page.png" width="800">
-
-# The Vision
-
-UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with his UH username and password, he can then proceed to creating a profile. To make the site more personal and specific to a user’s needs, the threads on the homepage will be based upon the information that he enters during the profile making process. There will be specific forums for each UH Campus of which you can only access once you create a profile. Each forum will look identical, but will hold different information about the campus from people who either work there or have attended that college campus before.  Each individual forum will hold a Home page that gives you 5 general topics to choose from to get more details or ask questions about: Degree Programs, Food Services, Commuting, Campus Security, and Campus Services. Some topics will have sub topics that you can explore more into detail--for example, Campus Services will have sub threads of Library Hours, Clubs, Events, Campus Jobs, etc. Once you have found the right thread that you want you can explore posts to your hearts content, up voting, down voting posts you like or even posting something new that hasn't been talked about yet. UH Essentials offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
 
 # Developer Guide
 
@@ -141,6 +137,12 @@ We asked five UH community members to test our application.
 ## Test User #5
 ### User Info
 ### Feedback
+
+# The Future Vision
+
+Unfortunately, we were not able to expand our application for other UH system campuses to use. As of right now, the UH Essentials app is geared only for the UH Manoa campus. In the future, we hope to expand our application more by allowing all UH campuses to have their own personalized thread pages fitted for the u
+
+UH Essentials is a UH System wide dynamic Q&A Forum. Once a user logs in with his UH username and password, he can then proceed to creating a profile. To make the site more personal and specific to a user’s needs, the threads on the homepage will be based upon the information that he enters during the profile making process. There will be specific forums for each UH Campus of which you can only access once you create a profile. Each forum will look identical, but will hold different information about the campus from people who either work there or have attended that college campus before.  Each individual forum will hold a Home page that gives you 5 general topics to choose from to get more details or ask questions about: Degree Programs, Food Services, Commuting, Campus Security, and Campus Services. Some topics will have sub topics that you can explore more into detail--for example, Campus Services will have sub threads of Library Hours, Clubs, Events, Campus Jobs, etc. Once you have found the right thread that you want you can explore posts to your hearts content, up voting, down voting posts you like or even posting something new that hasn't been talked about yet. UH Essentials offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
 
 # Contact Us
 
