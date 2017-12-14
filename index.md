@@ -19,7 +19,7 @@ Well, with UH Essentials you can learn everything, you want to or need to know, 
 
 When you first come to the site, you are welcomed by the following landing page. Which gives you an overview of what our site is about.
 
-<img src="/images/M1-Landing-Page.png" width="800">
+<img src="/images/landing-page.png" width="800">
 
 Only those who are registered in the uh system by having a uh account may access this website. The UH CAS authentication screen then appears and requests your UH account and password:
 
@@ -27,23 +27,23 @@ Only those who are registered in the uh system by having a uh account may access
 
 Once authenticated, you will be brought to the profile page where you will provide the following information: first and last name, your standing in your campus(Student, Professor, Faculty/Staff), a picture(optional), and bio(optional also).
 
-<img src="/images/M1-Profile-Page.png" width="800">
+<img src="/images/profile-page.png" width="800">
 
 Once your profile is created, you can go to the home page where you can explore the various threads available and even take a peek at recently asked questions users have submitted in a dropdown. From this page you will be able to click the the title of a thread genre which brings you to questions which were posted in that specific thread genre or click a specific thread topic in the dropdown which will bring you to the specific topic page.
 
-<img src="/images/M1-Home-Page.png" width="800">
+<img src="/images/home-page.png" width="800">
 
 This is how it looks on a specific thread genre page. You will be able to submit a new topic by clicking the big green button on the top or scroll through posts already made. Topics recently submitted will be on the top of the front page.
 
-<img src="/images/M1-Thread-Page.png" width="800">
+<img src="/images/thread-page.png" width="800">
 
 When clicking on an individual topic you will be directed to a page that looks likes the picture you see below. On the top of the page you will see the question/information the user has given, users name, and the time of which they posted. Below that you will be able to vote on the post based on how useful or not useful this was to you. Then the bulk of this page will be filled up by comments that you are able view and give.
 
-<img src="/images/M1-Topic-Page.png" width="800">
+<img src="/images/topic-page.png" width="800">
 
 The last image you see below is the submit page. As you can see on the top of the page there will be a set of rules that you are to abide by. If any rules are broken the post will be deleted by the admin who run the site. You will also see a checkbox of which you have to check to agree by the rules you have seen above. If the box isn't checked admin will delete the post you have made. After that you enter in your standard information: title, thread(which thread you would like the post to), and give extra information(if needed).
 
-<img src="/images/M1-Submit-Page.png" width="800">
+<img src="/images/submit-page.png" width="800">
 
 # Developer Guide
 
