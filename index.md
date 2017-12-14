@@ -22,31 +22,31 @@ Well, with UH Essentials you can learn everything, you want to or need to know, 
 
 When you first come to the site, you are welcomed by the following landing page. Which gives you an overview of what our site is about.
 
-<img src="/images/landing-page-v2.png" width="800">
+<img src="/images/landing-page-v2.png" width="800px">
 
 Only those who are registered in the UH system by having a UH account may access this website. The UH CAS authentication screen then appears and requests your UH account and password:
 
-<img src="/images/CAS-Login.png" width="800">
+<img src="/images/CAS-Login.png" width="800px">
 
 Once authenticated, you will be brought to the profile page where you will provide the following information: first and last name, your standing in your campus(Student, Professor, Faculty/Staff), a picture(optional), and bio(optional also).
 
-<img src="/images/profile-page.png" width="800">
+<img src="/images/profile-page.png" width="800px">
 
 Once your profile is created, you can go to the home page where you can explore the various threads available and even take a peek at recently asked questions users have submitted in an accordian-style feature. From this page, you will be able to click the title of a thread (which brings you to a full list of questions that were posted within that thread) or click a specific thread topic (which will bring you to its respective topic page).
 
-<img src="/images/home-page.png" width="800">
+<img src="/images/home-page.png" width="800px">
 
 This is a preview of a specific thread page. There are five different threads: campus events, campus security, commuting, degree programs, and food services. You will be able to submit a new topic by clicking the big green button on the top of the thread page, or by scrolling to the bottom of an individual topic post that has already been made. Topics recently submitted will be at the top of the thread page.
 
-<img src="/images/thread-page.png" width="800">
+<img src="/images/thread-page.png" width="800px">
 
 When clicking on an individual topic, you will be directed to a page that looks likes the picture you see below. On the top of the page, you will see the question/information the user has given, user's name, and the time of which they posted. Below that you will be able to vote on the post based on how useful or not useful this was to you. Then the bulk of this page will be filled up by comments that you are able view and give.
 
-<img src="/images/topic-page.png" width="800">
+<img src="/images/topic-page.png" width="800px">
 
 The last image you see below is the submit page. As you can see on the top of the page there will be a set of rules that you are to abide by. If any rules are broken the post will be deleted by the admin who run the site. You will also see a checkbox of which you have to check to agree by the rules you have seen above. If the box isn't checked, admin will delete the post you have made. To submit a question, you enter in your standard information: title, thread (which thread you would like the post to), and give extra information (if needed).
 
-<img src="/images/submit-page.png" width="800">
+<img src="/images/submit-page.png" width="800px">
 
 # Developer Guide
 
@@ -91,11 +91,11 @@ Additionally, our application was deployed to Galaxy, and can be visited via thi
 
 This milestone was carried out through [UH Essentials Github Milestone M1](https://github.com/uhessentials/uhessentials/milestone/1):
 
-<img src="/images/milestone-m1.png" width="800">
+<img src="/images/milestone-m1.png" width="800px">
 
 This milestone had eight issues, all of which our progress was tracked via [UH Essentials Github Project M1](https://github.com/uhessentials/uhessentials/projects/1). Each issue was implemented in its own branch, and was later merged back into master when the work for that issue was finished.
 
-<img src="/images/project-M1.png" width="800">
+<img src="/images/project-M1.png" width="800px">
 
 ## Milestone 2: Application Functionality
 
@@ -110,11 +110,11 @@ Although our ultimate goal is to have UH Essentials working and running for all 
 
 This milestone was implemented through [UH Essentials Github Milestone M2](https://github.com/uhessentials/uhessentials/milestone/2).
 
-<img src="/images/milestone-m2.png" width="800">
+<img src="/images/milestone-m2.png" width="800px">
 
 The progress of the issues for this milestone were tracked via [UH Essentials Github Project M2](https://github.com/uhessentials/uhessentials/projects/2).
 
-<img src="/images/project-M2.png" width="800">
+<img src="/images/project-M2.png" width="800px">
 
 # Community Feedback
 
