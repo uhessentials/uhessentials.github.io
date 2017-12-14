@@ -19,7 +19,7 @@ Well, with UH Essentials you can learn everything, you want to or need to know, 
 
 When you first come to the site, you are welcomed by the following landing page. Which gives you an overview of what our site is about.
 
-<img src="/images/landing-page.png" width="800">
+<img src="/images/landing-page-v2.png" width="800">
 
 Only those who are registered in the UH system by having a UH account may access this website. The UH CAS authentication screen then appears and requests your UH account and password:
 
@@ -101,7 +101,7 @@ This milestone started on November 22, 2017 and ended on December 13, 2017.
 The goal of this milestone was to implement significant functionality features to our application. This includes:
 - linking pages to each other
 - working forms (ex. dropdowns, checkboxes, submission)
-- creating a database collections for campus, thread, and topic.
+- creating database collections for campus, thread, and topic.
 
 Although our ultimate goal is to have UH Essentials working and running for all UH campuses, as of right now, this application will only service the UH Manoa campus. (You may view our whole vision for this project below in the section titled "[The Future Vision](#the-future-vision)")
 
