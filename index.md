@@ -1,9 +1,10 @@
+* The UH Essentials app can be accessed via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
+
 # Table of Contents
 
-* The UH Essentials app can be accessed via this URL: [http://uhessentials.meteorapp.com/](http://uhessentials.meteorapp.com/)
 * [About UH Essentials](#about-uh-essentials)
+  * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
-  * [Installation](#installation)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Application Functionality](#milestone-2-application-functionality)
@@ -16,6 +17,8 @@
 New to UH or want to learn more about your campus?
 
 Well, with UH Essentials you can learn everything, you want to or need to know, about the campus that you are attending. UH Essentials is a forum-like Meteor application for the whole University of Hawaii (UH) system, where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Events from actual students and professors that work or have experienced the UH life before. The UH Essentials app offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
+
+## User Guide
 
 When you first come to the site, you are welcomed by the following landing page. Which gives you an overview of what our site is about.
 
@@ -47,8 +50,6 @@ The last image you see below is the submit page. As you can see on the top of th
 
 # Developer Guide
 
-## Installation
-
 To run UH Essentials, you will first need to [install Meteor](https://www.meteor.com/install).
 
 Then, [download a copy of UH Essentials](https://github.com/uhessentials/uhessentials/archive/master.zip), or clone it using git.
@@ -66,6 +67,8 @@ $ meteor npm run start
 ```
 
 Finally, the app can be seen at [http://localhost:3000](http://localhost:3000). In order to login and have further access to the app, you will need an account on the UH test CAS server, which uses valid UH credentials.
+
+You are welcome to modify this application with the use of an IDE of your choice. In our case, we used IntelliJ IDEA.
 
 # Development History
 
