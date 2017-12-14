@@ -127,11 +127,15 @@ First of all, I don’t like how you have to put in your name because I don’t 
 
 ### Test User #3
 #### User Info
+James Whelan, Attends: Leeward Community College, Major: Undecided
 #### Feedback
+Wish the threads I saw were geared toward my home campus. However, since I do want to transfer to UH Manoa in a semester, I guess it is useful. Overall, I like the idea of this application; if everything was functionally working, it would be much better. Not bad so far. 
 
 ### Test User #4
 #### User Info
+Miles Whelan, Attends: UH Manoa, Major: Electrical Engineering
 #### Feedback
+I'm graduating soon, so it makes me wish this was a thing when I started college. Despite everything not working yet, I get the jist of what this app is intended too. Perhaps work on getting it to work well for one campus first, before expanding to the whole UH system. I wish the comments section were working because there are some unanswered questions that I know the answer to!!
 
 ### Test User #5
 #### User Info
