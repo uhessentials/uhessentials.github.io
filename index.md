@@ -115,11 +115,15 @@ We asked five UH community members to test our application.
 
 ## Test User #1
 ### User Info
+Mary Pascual, Attends: UH Manoa, Major: Computer Science
 ### Feedback
+When I first go to the website, visually, the color is appealing.  However, I don’t understand why there’s pictures of the websites.  I think it would’ve looked better to use pictures from google showing actions of the latest topic or to at least show a thread on the website of the latest topic.  Also, I almost missed the login button because of how small it is compared to everything else on the page.  The landing page is neat because everything is put into categories, which makes the search easier.  However, I do think that too many topics show up (which I don’t like in Reddit either which I know it was the website this project was based on).  I think having two to three topics and then a link to go to the category page, which would show all the questions for that topic would’ve been better.  Lastly, in the actual thread page, it’s very appealing and I like that people can comment their answers.  I think they should also include a like and dislike button for the comments because comments can get overpopulated or someone might put the wrong answer.  With the like/dislike button, students will know which answers are the correct answers and which are wrong.
 
 ### Test User #2
 #### User Info
+Sawinna Huang, Attends: UH Manoa, Major: Electrical Engineering
 #### Feedback
+First of all, I don’t like how you have to put in your name because I don’t want people to know who I am. So is there a option for anonymous? Secondly, can UH staff faculty answer those questions too? If you made it more creative and added more design or their UH logo etc, it’s something that will catch their attention more. Like I would love to look at sites that are pretty or creative looking because they grab my attention. And try to use a better picture for the home page as well- don’t put a screenshot because people don’t need that, just put a sentence of what the picture is about if you need to instead of a screenshot because it looks out of place or just like you didn’t put much effort in it
 
 ### Test User #3
 #### User Info
