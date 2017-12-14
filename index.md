@@ -28,7 +28,7 @@ Only those who are registered in the UH system by having a UH account may access
 
 <img src="/images/CAS-Login.png" width="800px">
 
-Once authenticated, you will be brought to the profile page where you will provide the following information: first and last name, your standing in your campus(Student, Professor, Faculty/Staff), a picture(optional), and bio(optional also).
+Once authenticated, you will be brought to the profile page where you will provide the following information: first and last name, your standing in your campus (Student, Professor, Faculty/Staff), a picture (optional), and bio (optional also).
 
 <img src="/images/profile-page.png" width="800px">
 
